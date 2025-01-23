@@ -1,6 +1,6 @@
 # Project 3: Spots
 
-An image sharing site.
+[An image sharing site.]([url](https://dcdunn12.github.io/se_project_spots/))
 
 # Description
 
